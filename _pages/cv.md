@@ -77,6 +77,10 @@ Clinically my specialty is pheochromocytoma and vitamin D metabolism.
 * Member of RCPath, Pathology Infomatics Group
 
 ## Publications
+**UK Reference Intervals for Parathyroid Hormone Using Abbott Methods**, Mehdi Mirzazadeh, Craig Webster, Gayani
+Weerasinghe, Thomas Morris, Tim James and Brian Shine. UK Reference Intervals for Parathyroid Hormone Using Abbott
+Methods. Br J Biomed Sci 80:11224. doi: 10.3389/bjbs.2023.11224, 2023
+
 **Interlaboratory comparison study of immunosuppressant analysis using a fully automated LC-MS/MS system.**
 Zahr N, Duce H, Duffy J, Webster C, Rentsch KM.
 Clin Chem Lab Med. 2022 Sep 2;60(11):1753-1762. doi: 10.1515/cclm-2021-1340. Print 2022 Oct 26.
